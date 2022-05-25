@@ -1,4 +1,4 @@
-from transformers import BertTokenizer
+from transformers import BertTokenizer ,  BartTokenizer
 import jieba
 from torch.utils.data import Dataset
 
